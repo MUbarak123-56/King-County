@@ -14,7 +14,7 @@ library(tidyverse)
 ## Loading dataset
 
 ```{r, kc-load-data}
-df_kc <- read.csv("~/DataBEL/kc_house_data.csv")
+df_kc <- read.csv("~/King-County/kc_house_data.csv")
 
 ```
 
