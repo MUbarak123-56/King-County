@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run fpl_pred.py
+web: sh setup.sh && streamlit run king_county.py
